@@ -14,6 +14,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>eureka-server</module>
+        <module>eureka-client</module>
     </modules>
     <name>finchley</name>
 
@@ -35,16 +36,6 @@
       <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-test</artifactId>
-      </dependency>
-      <!-- 监控 -->
-      <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-actuator</artifactId>
-      </dependency>
-      <!-- 负载均衡依赖 -->
-      <dependency>
-        <groupId>org.springframework.cloud</groupId>
-        <artifactId>spring-cloud-starter-netflix-ribbon</artifactId>
       </dependency>
   </dependencies>
 
