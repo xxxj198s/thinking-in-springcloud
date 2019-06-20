@@ -13,8 +13,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  */
 @EnableDiscoveryClient
 @SpringBootApplication
-public class EurekaOrderApplication {
+public class EurekaHelloApplication {
     public static void main(String[] args) {
-        SpringApplication.run(EurekaOrderApplication.class, args);
+        SpringApplication.run(EurekaHelloApplication.class, args);
     }
 }
