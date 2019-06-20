@@ -17,6 +17,7 @@
         <module>eureka-provider-order</module>
         <module>eureka-consumer-user</module>
         <module>eureka-server-available</module>
+        <module>eureka-register-available</module>
     </modules>
     <name>finchley</name>
 
