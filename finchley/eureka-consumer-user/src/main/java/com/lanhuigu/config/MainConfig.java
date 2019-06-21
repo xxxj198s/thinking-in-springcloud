@@ -1,4 +1,4 @@
-package com.lanhuigu.ribbon.config;
+package com.lanhuigu.config;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
