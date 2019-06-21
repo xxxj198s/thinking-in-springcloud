@@ -1,4 +1,4 @@
-package com.lanhuigu.controller;
+package com.lanhuigu.ribbon.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

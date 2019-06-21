@@ -1,4 +1,4 @@
-package com.lanhuigu;
+package com.lanhuigu.hystrix;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -13,8 +13,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  */
 @EnableDiscoveryClient
 @SpringBootApplication
-public class ConsumerRibbonApplication {
+public class ConsumerHystrixApplication {
     public static void main(String[] args) {
-        SpringApplication.run(ConsumerRibbonApplication.class, args);
+        SpringApplication.run(ConsumerHystrixApplication.class, args);
     }
 }
