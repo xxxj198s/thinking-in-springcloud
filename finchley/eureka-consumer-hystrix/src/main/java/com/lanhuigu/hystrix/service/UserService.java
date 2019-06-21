@@ -31,6 +31,7 @@ public class UserService {
     /**
      * 容错方法
      */
+
     public String queryOrderInfoFallback() {
         return "error-hystrix-test";
     }
