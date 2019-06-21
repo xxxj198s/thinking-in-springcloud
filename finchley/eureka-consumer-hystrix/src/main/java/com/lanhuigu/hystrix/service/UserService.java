@@ -29,10 +29,10 @@ public class UserService {
     }
 
     /**
-     * 容错方法
+     * 当服务调不通时，会调用fallbackMethod对应的容错方法
      */
-
     public String queryOrderInfoFallback() {
+        // 处理业务逻辑
         return "error-hystrix-test";
     }
 }
