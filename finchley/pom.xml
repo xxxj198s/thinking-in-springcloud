@@ -10,18 +10,18 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.lanhuigu</groupId>
   <artifactId>finchley</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>eureka-server</module>
-        <module>eureka-provider-order</module>
-        <module>eureka-consumer-user</module>
-        <module>eureka-server-available</module>
-        <module>eureka-register-available</module>
-        <module>eureka-consumer-ribbon</module>
-        <module>eureka-consumer-hystrix</module>
-    </modules>
-    <name>finchley</name>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <modules>
+      <module>eureka-server</module>
+      <module>eureka-provider-order</module>
+      <module>eureka-consumer-user</module>
+      <module>eureka-server-available</module>
+      <module>eureka-register-available</module>
+      <module>eureka-consumer-ribbon</module>
+      <module>eureka-consumer-hystrix</module>
+  </modules>
+  <name>finchley</name>
 
   <!-- 版本号管理 -->
   <properties>
