@@ -20,6 +20,7 @@
       <module>eureka-register-available</module>
       <module>eureka-consumer-ribbon</module>
       <module>eureka-consumer-hystrix</module>
+      <module>eureka-server-security</module>
   </modules>
   <name>finchley</name>
 
@@ -41,6 +42,11 @@
       <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-test</artifactId>
+      </dependency>
+      <!-- 监控 -->
+      <dependency>
+          <groupId>org.springframework.boot</groupId>
+          <artifactId>spring-boot-starter-actuator</artifactId>
       </dependency>
   </dependencies>
 
