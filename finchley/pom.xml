@@ -12,6 +12,8 @@
   <artifactId>finchley</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <name>finchley</name>
+
   <modules>
       <module>eureka-server</module>
       <module>eureka-provider-order</module>
@@ -21,9 +23,9 @@
       <module>eureka-consumer-ribbon</module>
       <module>eureka-consumer-hystrix</module>
       <module>eureka-server-security</module>
+      <module>eureka-consumer-feign</module>
   </modules>
-  <name>finchley</name>
-
+    
   <!-- 版本号管理 -->
   <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
