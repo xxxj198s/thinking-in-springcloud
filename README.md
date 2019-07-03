@@ -14,4 +14,6 @@ Hystrix熔断器实战 https://blog.csdn.net/yhl_jxy/article/details/78631478
 
 Eureka注册中心安全认证 https://blog.csdn.net/yhl_jxy/article/details/93381403
 
+Feign负载均衡 https://blog.csdn.net/yhl_jxy/article/details/94391154
+
 ## 源码篇
