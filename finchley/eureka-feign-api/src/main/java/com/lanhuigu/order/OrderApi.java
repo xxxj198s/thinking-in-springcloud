@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @auther: yihonglei
  * @date: 2019-06-30 21:17
  */
-@FeignClient(name = "eureka-provider-order", path = "/order")
+@FeignClient(name = "eureka-provider-order", fallback = OrderApiFallBack.class, path = "/order")
 public interface OrderApi {
 
     @RequestMapping("/queryOrderInfo")

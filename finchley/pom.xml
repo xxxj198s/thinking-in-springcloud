@@ -25,6 +25,7 @@
       <module>eureka-server-security</module>
       <module>eureka-consumer-feign</module>
       <module>eureka-feign-api</module>
+      <module>eureka-consumer-feign-hystrix</module>
   </modules>
     
   <!-- 版本号管理 -->
