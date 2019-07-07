@@ -16,4 +16,6 @@ Eureka注册中心安全认证 https://blog.csdn.net/yhl_jxy/article/details/933
 
 Feign负载均衡 https://blog.csdn.net/yhl_jxy/article/details/94391154
 
+Feign开启对Hystrix支持 https://blog.csdn.net/yhl_jxy/article/details/95005817
+
 ## 源码篇
