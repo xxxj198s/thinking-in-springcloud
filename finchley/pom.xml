@@ -26,6 +26,8 @@
       <module>eureka-consumer-feign</module>
       <module>eureka-feign-api</module>
       <module>eureka-consumer-feign-hystrix</module>
+      <module>eureka-consumer-feign-hystrix-dashboard</module>
+      <module>eureka-hystrix-dashboard</module>
   </modules>
     
   <!-- 版本号管理 -->
