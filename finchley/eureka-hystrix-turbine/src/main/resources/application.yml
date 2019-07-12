@@ -14,4 +14,3 @@ turbine:
     clusterConfig: default
   appConfig: eureka-consumer-feign-hystrix-dashboard,eureka-consumer-hystrix
   cluster-name-expression: "'default'"
-
