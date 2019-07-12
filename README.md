@@ -20,4 +20,6 @@ Feign开启对Hystrix支持 https://blog.csdn.net/yhl_jxy/article/details/950058
 
 hystrix配置dashboard https://blog.csdn.net/yhl_jxy/article/details/95329627
 
+hystrix配置dashboard，turbine集群监控 https://blog.csdn.net/yhl_jxy/article/details/95635466
+
 ## 源码篇
