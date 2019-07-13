@@ -18,8 +18,8 @@ Feign负载均衡 https://blog.csdn.net/yhl_jxy/article/details/94391154
 
 Feign开启对Hystrix支持 https://blog.csdn.net/yhl_jxy/article/details/95005817
 
-hystrix配置dashboard https://blog.csdn.net/yhl_jxy/article/details/95329627
+Hystrix配置Dashboard https://blog.csdn.net/yhl_jxy/article/details/95329627
 
-hystrix配置dashboard，turbine集群监控 https://blog.csdn.net/yhl_jxy/article/details/95635466
+Hystrix配置Dashboard，Turbine集群监控 https://blog.csdn.net/yhl_jxy/article/details/95635466
 
 ## 源码篇
