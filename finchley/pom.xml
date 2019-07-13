@@ -29,6 +29,7 @@
       <module>eureka-consumer-feign-hystrix-dashboard</module>
       <module>eureka-hystrix-dashboard</module>
       <module>eureka-hystrix-turbine</module>
+      <module>eureka-gateway-zuul</module>
   </modules>
     
   <!-- 版本号管理 -->
