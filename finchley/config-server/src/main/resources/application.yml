@@ -1,0 +1,12 @@
+server:
+  port: 9004
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/yihonglei/lanhuigu-cloud-config.git
+          username:
+          password:
