@@ -22,4 +22,6 @@ Hystrix配置Dashboard https://blog.csdn.net/yhl_jxy/article/details/95329627
 
 Hystrix配置Dashboard，Turbine集群监控 https://blog.csdn.net/yhl_jxy/article/details/95635466
 
+zuul网关 https://blog.csdn.net/yhl_jxy/article/details/95974997
+
 ## 源码篇
