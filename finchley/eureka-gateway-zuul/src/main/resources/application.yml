@@ -10,10 +10,10 @@ eureka:
   instance:
     instance-id: eureka-gateway-zuul-9003
     prefer-ip-address: true
-zuul:
-  routes:
+#zuul:
+  #routes:
     # 1、指定微服务名称和路径映射
-    eureka-provider-order: /order-service/**
+    #eureka-provider-order: /order-service/**
     # 2、通过指定微服务名称映射路径
     #use-routing:
       #serviceId: eureka-provider-order
@@ -33,7 +33,7 @@ zuul:
   #strip-prefix: true
 
 # 开启debug日志
-logging:
-  level:
-    com:
-      netflix: debug
+#logging:
+  #level:
+    #com:
+      #netflix: debug
