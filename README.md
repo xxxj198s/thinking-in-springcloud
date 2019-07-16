@@ -24,4 +24,6 @@ Spring Cloud--Hystrix配置Dashboard，Turbine集群监控 https://blog.csdn.net
 
 Spring Cloud--zuul网关 https://blog.csdn.net/yhl_jxy/article/details/95974997
 
+Spring Cloud--Config配置中心 https://blog.csdn.net/yhl_jxy/article/details/96172189
+
 ## 源码篇
