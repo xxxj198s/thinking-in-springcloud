@@ -1,5 +1,5 @@
 spring:
   application:
-    name: config-client
+    name: order
 server:
   port: 8001
