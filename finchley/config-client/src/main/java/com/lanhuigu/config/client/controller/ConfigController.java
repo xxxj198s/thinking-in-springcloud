@@ -1,6 +1,7 @@
 package com.lanhuigu.config.client.controller;
 
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -15,6 +16,7 @@ import java.util.Map;
  * @date 2019-07-15 17:58
  */
 @RestController
+@RefreshScope
 public class ConfigController {
 
     @Value("${spring.application.name}")

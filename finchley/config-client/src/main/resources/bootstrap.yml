@@ -10,3 +10,9 @@ spring:
       uri: http://localhost:9004/
       profile: dev
       label: master
+# 开放监控端口
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
