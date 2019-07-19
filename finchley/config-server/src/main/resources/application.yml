@@ -11,3 +11,4 @@ spring:
           uri: https://github.com/yihonglei/lanhuigu-cloud-config.git
           username:
           password:
+          #search-paths:
