@@ -8,19 +8,14 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>config-server</artifactId>
-    <name>config-server</name>
+    <artifactId>eureka-sleuth</artifactId>
+    <name>eureka-sleuth</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <dependencies>
-        <!-- config-server依赖 -->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-config-server</artifactId>
-        </dependency>
     </dependencies>
 
     <!--Maven Build-->
