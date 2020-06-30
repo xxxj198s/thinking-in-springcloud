@@ -13,7 +13,6 @@ import java.util.Map;
  * config-client-->config-server-->git
  *
  * @author yihonglei
- * @date 2019-07-15 17:58
  */
 @RestController
 @RefreshScope
