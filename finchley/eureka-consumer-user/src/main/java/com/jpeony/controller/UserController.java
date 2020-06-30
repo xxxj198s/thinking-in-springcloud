@@ -8,10 +8,9 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @RestController这个注解等价于spring mvc用法中的@Controller+@ResponseBody
+ * -- @RestController这个注解等价于spring mvc用法中的@Controller+@ResponseBody
  *
  * @author yihonglei
- * @date: 2019-06-17 22:30
  */
 @RestController
 @RequestMapping("/user")
