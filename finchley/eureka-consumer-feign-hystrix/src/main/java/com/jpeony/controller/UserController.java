@@ -7,10 +7,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @RestController这个注解等价于spring mvc用法中的@Controller+@ResponseBody
+ * -- @RestController这个注解等价于spring mvc用法中的@Controller+@ResponseBody
  *
  * @author yihonglei
- * @date: 2019-06-17 22:30
  */
 @RestController
 @RequestMapping("/user")
@@ -20,8 +19,7 @@ public class UserController {
 
     @RequestMapping(value = "/queryUserInfo", method = {RequestMethod.GET, RequestMethod.POST})
     public String queryUserInfo() {
-        String orderInfo = orderApi.queryOrdersByUserId();
 
-        return orderInfo;
+        return orderApi.queryOrdersByUserId();
     }
 }
