@@ -10,7 +10,6 @@ import org.springframework.web.client.RestTemplate;
  * 用户服务
  *
  * @author yihonglei
- * @date: 2019-06-21 15:32
  */
 @Service
 public class UserService {
