@@ -8,7 +8,7 @@
       <version>2.0.6.RELEASE</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.lanhuigu</groupId>
+  <groupId>com.jpeony</groupId>
   <artifactId>finchley</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>

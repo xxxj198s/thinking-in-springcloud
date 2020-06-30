@@ -8,7 +8,7 @@ spring:
       server:
         git:
           # git为public权限，可以不加用户名、密码访问
-          uri: https://github.com/yihonglei/lanhuigu-cloud-config.git
+          uri: https://github.com/yihonglei/jpeony-cloud-config.git
           username:
           password:
           #search-paths:
