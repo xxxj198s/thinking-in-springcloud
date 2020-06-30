@@ -5,11 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboard;
 
 /**
- * @SpringBootApplication 启动一个Spring Boot应用程序
- * @EnableDiscoveryClient 服务发现与注册，当应用启动时，将应用注册到配置的注册中心
+ * -- @SpringBootApplication 启动一个Spring Boot应用程序
+ * -- @EnableDiscoveryClient 服务发现与注册，当应用启动时，将应用注册到配置的注册中心
  *
  * @author yihonglei
- * @date: 2019-06-19 11:27
  */
 @SpringBootApplication
 @EnableHystrixDashboard
